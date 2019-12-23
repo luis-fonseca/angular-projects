@@ -1,0 +1,13 @@
+.box-01 {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    box-shadow: 5px 10px #CCC;
+}
+
+.box-02 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    box-shadow: 5px 10px #CCC;
+}
